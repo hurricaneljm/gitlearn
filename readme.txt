@@ -5,4 +5,8 @@ git tracks changes of files.
 git diff can use look change.
 git diff compare workspace and stage or repository.
 create a new branch is quick and simple.
+<<<<<<< HEAD
 test conflict with sub-branch.
+=======
+test conflict with master
+>>>>>>> bbb
