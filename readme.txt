@@ -10,3 +10,5 @@ test conflict with master.
 fast-forward and recursive.
 use stash.
 recovery.
+use stash .
+
