@@ -8,3 +8,5 @@ create a new branch is quick and simple.
 test conflict with sub-branch.
 test conflict with master.
 fast-forward and recursive.
+use stash.
+
